@@ -5,4 +5,4 @@
 
 ## 算法与数据结构类
 
-LeetCode101（谷歌师兄刷题笔记）![百度网盘链接](https://pan.baidu.com/share/init?surl=txDItPwDrnG8mOloOFbGaQ) 密码：m19c
+LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.com/share/init?surl=txDItPwDrnG8mOloOFbGaQ) 提取码：m19c
