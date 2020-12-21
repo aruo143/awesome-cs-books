@@ -7,38 +7,38 @@
 
 ### 算法与数据结构类
 
-LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.com/share/init?surl=txDItPwDrnG8mOloOFbGaQ) 提取码：m19c
+LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.com/s/1txDItPwDrnG8mOloOFbGaQ) 提取码：m19c
 
-算法图解 [百度网盘链接](https://pan.baidu.com/share/init?surl=jQYbWiHM6Z8VaP62alkBoA) 提取码：jack
+算法图解 [百度网盘链接](https://pan.baidu.com/s/1jQYbWiHM6Z8VaP62alkBoA) 提取码：jack
 
-剑指Offer [百度网盘链接](https://pan.baidu.com/share/init?surl=rNBSsx_-NL2xHH-acWePGA) 提取码：jack
+剑指Offer [百度网盘链接](https://pan.baidu.com/s/1rNBSsx_-NL2xHH-acWePGA) 提取码：jack
 
 ### 编程基础
 
-流畅的 Python [百度网盘链接](https://pan.baidu.com/share/init?surl=-YBEOYY45CYrbM4Zxb21Yw) 提取码：jack
+流畅的 Python [百度网盘链接](https://pan.baidu.com/s/1-YBEOYY45CYrbM4Zxb21Yw) 提取码：jack
 
-C++ Primer [百度网盘链接](https://pan.baidu.com/share/init?surl=uyW6kg6J0KwA8JYUj7AFFA) 提取码：jack
+C++ Primer [百度网盘链接](https://pan.baidu.com/s/1uyW6kg6J0KwA8JYUj7AFFA) 提取码：jack
 
 ### 机器学习
 
-机器学习实战 [百度网盘链接](https://pan.baidu.com/share/init?surl=lEz8POdx9V5Xu-RVMlBttA) 提取码：jack
+机器学习实战 [百度网盘链接](https://pan.baidu.com/s/1lEz8POdx9V5Xu-RVMlBttA) 提取码：jack
 
 深度学习（花书） [百度网盘链接](https://pan.baidu.com/s/1drDJUf9OqSfxoicsk8J2gg) 提取码：jack
 
-JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/share/init?surl=1OI0NZ_Fv-ZJBpT8pmjlRw) 提取码：jack
+JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11OI0NZ_Fv-ZJBpT8pmjlRw) 提取码：jack
 
 ### 数学基础
 
-线性代数及其应用 [百度网盘链接](https://pan.baidu.com/share/init?surl=0FtcG4mweUWy810cirGGzg) 提取码：jack
+线性代数及其应用 [百度网盘链接](https://pan.baidu.com/s/10FtcG4mweUWy810cirGGzg) 提取码：jack
 
-概率论与数理统计 [百度网盘链接](https://pan.baidu.com/share/init?surl=P_jIbbW6JUNSlCaCX7CXKA) 提取码：jack
+概率论与数理统计 [百度网盘链接](https://pan.baidu.com/s/1P_jIbbW6JUNSlCaCX7CXKA) 提取码：jack
 
 
 ## 视频
 
 ### 编程基础
 
-小甲鱼 Python [百度网盘链接](https://pan.baidu.com/share/init?surl=-WasSZey8bZuEfp48bTOuw) 提取码：jack
+小甲鱼 Python [百度网盘链接](https://pan.baidu.com/s/1-WasSZey8bZuEfp48bTOuw) 提取码：jack
 
 ### 机器学习
 
@@ -48,5 +48,5 @@ JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/shar
 
 ### 数学基础
 
-MIT 的老教授 Gilbert Strang 的线性代数视频 [百度网盘链接](https://pan.baidu.com/share/init?surl=WktC95HL2GF0PKa311L5SQ) 提取码：jack
+MIT 的老教授 Gilbert Strang 的线性代数视频 [百度网盘链接](https://pan.baidu.com/s/1WktC95HL2GF0PKa311L5SQ) 提取码：jack
 
